@@ -1,0 +1,4 @@
+VERSION=26.3.20261120
+URL=https://raw.githubusercontent.com/tuanvu1925pro-collab/vtacad-updates/main/VTACAD_Setup.fas
+SHA256=FD76512052683D98538065DECB2A78E2294AF1188532DF418ABB429497CDE158
+NOTES=Bo sung Auto-Update qua GitHub (VTA_CHECKUPDATE); Ve dam chuan KATA TCVN (VEDAM); Tu dong sua loi thieu font (SUAFONT)
