@@ -1,4 +1,4 @@
-VERSION=26.3.20261120
+VERSION=26.6.20261127
 URL=https://raw.githubusercontent.com/tuanvu1925pro-collab/vtacad-updates/main/VTACAD_Setup.fas
-SHA256=FD76512052683D98538065DECB2A78E2294AF1188532DF418ABB429497CDE158
-NOTES=Bo sung Auto-Update qua GitHub (VTA_CHECKUPDATE); Ve dam chuan KATA TCVN (VEDAM); Tu dong sua loi thieu font (SUAFONT)
+SHA256=346799A20099B885785F73907DC90DE4898909967968AD56DEF070A115CD2AEC
+NOTES=Bo sung bo 3 lenh ket cau chuan Do An Mon Hoc BTCT: VEDAM (Dam), VECOT (Cot nhieu tang), VESAN (Mat bang + Mat cat San) va Gop 1000+ PDF (IN/QIN/GOPPDF)
